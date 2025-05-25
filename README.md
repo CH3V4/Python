@@ -1,6 +1,6 @@
-🔐 Security Automation with Python
+🔐 Automation for SOC Analysts with Python
 
-Welcome to Security Automation with Python — a curated collection of Python scripts and learning resources to help security analysts, incident responders, and SOC professionals level up their Python skills while automating real-world tasks.
+Welcome to Automation for SOC Analysts with Python — a curated collection of Python scripts and learning resources to help security analysts, incident responders, and SOC professionals level up their Python skills while automating real-world tasks.
 
 🚀 About the Project
 
